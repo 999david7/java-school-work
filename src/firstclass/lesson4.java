@@ -1,3 +1,5 @@
+package firstclass;
+
 import java.util.Random;
 
 public class lesson4 {

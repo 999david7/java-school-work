@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson6 {
 
     public static int sum(int[][] mat) {

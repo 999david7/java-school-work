@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson8 {
 
     public static boolean gewonnen(char[][] spielfeld) {

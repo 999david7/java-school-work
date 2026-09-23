@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson9 {
 
     public static boolean vergleich(int[][] mat1, int[][] mat2) {

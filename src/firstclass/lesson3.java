@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson3 {
 
     public static void ausgabe(int[][] mat) {

@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson7 {
 
     public static int[] zeile(int[][] mat, int zeilenNr) {

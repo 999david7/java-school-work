@@ -1,3 +1,5 @@
+package firstclass.scanner2;
+
 import java.util.Scanner;
 
 public class lesson04 {

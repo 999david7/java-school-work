@@ -1,3 +1,5 @@
+package firstclass;
+
 public class lesson5 {
 
     public static int countZeros(int[][] mat) {
